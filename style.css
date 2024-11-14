@@ -6,7 +6,7 @@ body{
     margin-bottom: 180px;
 }
 header{
-    border: bottom 3px solid sienna;
+   border-bottom:  solid sienna;
     padding: 20px;
     color: aliceblue;
     font-size: 35px;
